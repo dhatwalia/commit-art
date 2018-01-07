@@ -5,7 +5,7 @@ rm dates.txt
 
 # Run the date writer
 python date_writer.py 2018 Prajwal
-python date_writer.py 2019 fabulous
+python date_writer.py 2018 Prajwal
 
 # Read line by line
 while IFS= read -r line; do
